@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\controllers\\firmwarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\controllers\\firmwarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\models\\frimware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\models\\frimware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\models\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\models\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\models\\devicegrouplink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\models\\devicegrouplink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\controllers\\devicetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\controllers\\devicetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|c:\\users\\home\\source\\repos\\iotassettrackingapi\\iotassettrackingapi\\iotassettrackingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBA0A94B-1E54-4D35-A1B4-84EBAF2EE473}|IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj|solutionrelative:iotassettrackingapi\\iotassettrackingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirmwareController.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Controllers\\FirmwareController.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Controllers\\FirmwareController.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Controllers\\FirmwareController.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Controllers\\FirmwareController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:14:47.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:17:05.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwBsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:49:23.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeviceGroupLink.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Models\\DeviceGroupLink.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Models\\DeviceGroupLink.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Models\\DeviceGroupLink.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Models\\DeviceGroupLink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:09:19.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Models\\Device.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Models\\Device.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:48:19.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceType.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Models\\DeviceType.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Models\\DeviceType.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Models\\DeviceType.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Models\\DeviceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:08:23.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frimware.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Models\\Frimware.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Models\\Frimware.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Models\\Frimware.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Models\\Frimware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:03:39.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Groups.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Models\\Groups.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Models\\Groups.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Models\\Groups.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Models\\Groups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:04:23.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\appsettings.json",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T08:14:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Program.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:49:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeviceTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Controllers\\DeviceTypesController.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Controllers\\DeviceTypesController.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Controllers\\DeviceTypesController.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Controllers\\DeviceTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:16:09.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Controllers\\DevicesController.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Controllers\\DevicesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:15:15.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\wwwroot\\styles.css",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\wwwroot\\styles.css",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\wwwroot\\styles.css",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAAAEcBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-23T09:14:34.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\wwwroot\\index.html",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\wwwroot\\index.html",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-20T12:59:51.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\wwwroot\\app.js",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\wwwroot\\app.js",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\wwwroot\\app.js",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAIwM8BAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-23T09:13:01.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T09:55:58.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IoTAssetTrackingAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj",
+              "RelativeDocumentMoniker": "IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj",
+              "RelativeToolTip": "IoTAssetTrackingAPI\\IoTAssetTrackingAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T08:14:39.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

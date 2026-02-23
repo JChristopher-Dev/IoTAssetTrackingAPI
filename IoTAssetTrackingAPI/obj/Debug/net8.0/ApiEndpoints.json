@@ -1,0 +1,169 @@
+[
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.DevicesController",
+    "Method": "GetDevices",
+    "RelativePath": "api/Devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.DevicesController",
+    "Method": "AssignFirmware",
+    "RelativePath": "api/Devices/{id}/firmware",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "IoTAssetTrackingAPI.Controllers.AssignFirmwareRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.DeviceTypesController",
+    "Method": "GetDeviceTypes",
+    "RelativePath": "api/DeviceTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.FirmwareController",
+    "Method": "GetFirmware",
+    "RelativePath": "api/Firmware",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.FirmwareController",
+    "Method": "AddFirmware",
+    "RelativePath": "api/Firmware",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firmware",
+        "Type": "IoTAssetTrackingAPI.Models.Firmware",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.FirmwareController",
+    "Method": "UpdateFirmware",
+    "RelativePath": "api/Firmware/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "firmware",
+        "Type": "IoTAssetTrackingAPI.Models.Firmware",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.FirmwareController",
+    "Method": "DeleteFirmware",
+    "RelativePath": "api/Firmware/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.GroupsController",
+    "Method": "GetGroups",
+    "RelativePath": "api/Groups",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.GroupsController",
+    "Method": "AddGroup",
+    "RelativePath": "api/Groups",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "group",
+        "Type": "IoTAssetTrackingAPI.Models.Group",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.GroupsController",
+    "Method": "UpdateGroup",
+    "RelativePath": "api/Groups/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "group",
+        "Type": "IoTAssetTrackingAPI.Models.Group",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IoTAssetTrackingAPI.Controllers.GroupsController",
+    "Method": "DeleteGroup",
+    "RelativePath": "api/Groups/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

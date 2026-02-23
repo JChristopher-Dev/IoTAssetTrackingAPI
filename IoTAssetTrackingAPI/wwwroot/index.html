@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoT Asset Tracking</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css?v=3">
+</head>
+<body>
+
+    <header class="topbar">
+        <div class="topbar-brand">
+            <div class="brand-dot"></div>
+            IoT Tracker
+        </div>
+        <nav class="topbar-nav">
+            <button class="nav-btn active" onclick="loadDevices(this)">Devices</button>
+            <button class="nav-btn" onclick="loadFirmware(this)">Firmware</button>
+            <button class="nav-btn" onclick="loadDeviceTypes(this)">Device Types</button>
+            <button class="nav-btn" onclick="loadGroups(this)">Groups</button>
+        </nav>
+    </header>
+
+    <main class="page">
+        <div class="page-heading">
+            <h1 id="sectionTitle">Devices</h1>
+            <span class="row-count" id="rowCount"></span>
+        </div>
+        <div id="content" class="content-area"></div>
+    </main>
+
+    <script src="app.js?v=3"></script>
+</body>
+</html>
