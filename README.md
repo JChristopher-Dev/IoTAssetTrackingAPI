@@ -1,6 +1,6 @@
 ## IoT Asset Tracking System
 A web application for managing IoT devices, firmware versions and hierarchical device groups.
-Built with ASP.NET Core and MSSQL, with a lightweight HTML/CSS/JS frontend served as static files.
+Built with ASP.NET Core and SSMS, with a lightweight HTML/CSS/JS frontend served as static files.
 
 ### Features
 
